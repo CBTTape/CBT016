@@ -1,0 +1,9 @@
+2023-04-02 21:00:56.334497 - Initialized conversion of CBT016
+2023-04-02 21:00:56.391432 - Received CBT.V504.FILE016.PDS from FILE016.XMI 
+2023-04-02 21:00:56.393785 - Found $$$$$DOC.txt (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/$$$$$DOC
+2023-04-02 21:00:56.395270 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:00:56.396341 - Found @.txt (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/@
+2023-04-02 21:00:56.397469 - Found @FILE016.txt (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/@FILE016
+2023-04-02 21:00:56.398512 - Found PDFXIT15.jcl (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/PDFXIT15
+2023-04-02 21:00:56.399582 - Found SWHJ2006.txt (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/SWHJ2006
+2023-04-02 21:00:56.400670 - Found SWHUSER.txt (text/plain) in CBT.V504.FILE016.PDS, moved to PDS/SWHUSER
